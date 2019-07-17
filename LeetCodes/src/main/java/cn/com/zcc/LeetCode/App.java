@@ -7,7 +7,6 @@ import java.util.Set;
  * Hello world!
  */
 public class App {
-    // TODO OK.
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
